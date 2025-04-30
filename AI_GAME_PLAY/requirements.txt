@@ -1,0 +1,6 @@
+gym
+gym-chess
+python-chess
+opencv-python
+numpy
+cairosvg
